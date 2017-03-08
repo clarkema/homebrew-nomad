@@ -3,7 +3,7 @@ require "formula"
 class GitMap < Formula
   homepage "https://github.com/clarkema/git-map"
   url "https://github.com/clarkema/git-map/archive/v0.0.3.tar.gz"
-  sha1 "eea43a160d2cf68d30fc421da8b8ae96dccdd89e"
+  sha256 "47442a71e9146bf2597010318457cac6aee0db94063a117d3a88afeb829a55bb"
 
   def install
     system "pod2man ./bin/git-map > git-map.1"
