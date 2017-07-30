@@ -1,8 +1,8 @@
 class Ahab < Formula
   desc "Tools for taming Docker"
   homepage "https://github.com/clarkema/ahab"
-  url "https://github.com/clarkema/ahab/archive/v0.1.0.tar.gz"
-  sha256 "c405446291bf89715d4e7337dfe83f81864de9446149dbba902d786bbc2c0741"
+  url "https://github.com/clarkema/ahab/archive/v0.1.1.tar.gz"
+  sha256 "f9ebd806042308b2e81e7f33d25d7d645fcade2dac8aa1f5d413074df3ed35f3"
 
   depends_on "rakudo-star"
 
