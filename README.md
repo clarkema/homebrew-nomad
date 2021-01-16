@@ -1,6 +1,7 @@
 # Nomad on Homebrew
 
-This repository contains [Homebrew](brew.sh) formulae for some of my command-line utilities, to ease installation on OS X.
+This repository contains [Homebrew](https://brew.sh) formulae for some of my
+command-line utilities, to ease installation on OS X.
 
 ## Example installation and use
 
